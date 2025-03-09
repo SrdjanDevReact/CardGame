@@ -3,4 +3,5 @@ Sedmica is a popular card game played in schools across the Balkans. The game is
 
 Perfect for casual play and competitive matches alike! 🎴🔥
 
-![WhatsApp Image 2025-03-03 at 17 59 29](https://github.com/user-attachments/assets/1830f187-7ed0-4ea1-997e-e8b1c825acaf)
+![image](https://github.com/user-attachments/assets/b5b74b31-ff2e-42fa-aa4a-30585716c28b)
+
